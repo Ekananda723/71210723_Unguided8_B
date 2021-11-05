@@ -1,0 +1,14 @@
+variabel 
+gelas A dengan kapasitas = 1000L 
+gelas B dengan kapasitas = 700L
+gelas C dengan kapasitas = 300L
+gelas D dengan kapasitas = 100L
+
+begin
+tinggi sedotan pada gelas A = 1000L/2 = 500L
+Dari gelas A mengalir sebanyak 1000L - 500L = 500L ke gelas B
+tinggi sedotan pada gelas B = 700L/2 = 350L
+Dari gelas B mengalir sebanyak 500L - 350L = 150L ke gelas C
+tinggi sedotan pada gelas C = 300L/2 = 150L
+Dari gelas C mengalir sebanyak 150L - 150L = 0L ke gelas D
+end
