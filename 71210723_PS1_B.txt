@@ -1,0 +1,8 @@
+variabel suku ke-1=1, suku ke-2000=2000
+
+begin
+total = suku ke-1 + suku ke-2000 * (suku ke-2000/2)
+total = 1 + 2000 * (2000/2)
+total = 2001 * 1000
+total = 2001000
+end
