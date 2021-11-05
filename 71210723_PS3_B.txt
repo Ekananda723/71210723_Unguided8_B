@@ -1,0 +1,36 @@
+variabel 
+Arrow = Right, Left, Up, Down
+Attribute = Add, Die,
+
+begin
+Untuk Hx:
+X.ADD_RIGHT
+X.ADD_DOWN
+X.ADD_RIGHT
+X.ADD_DOWN
+X.ADD_DOWN
+X.ADD_RIGHT
+X.ADD_DOWN
+X.DIE
+X.DIE
+X.DIE
+X.DIE
+X.DIE
+X.DIE
+X.DIE
+
+Untuk Hy:
+Y.ADD UP
+Y.ADD LEFT
+Y.ADD LEFT
+Y.ADD UP
+Y.ADD UP
+Y.ADD LEFT
+Y.ADD LEFT
+Y.DIE
+Y.DIE
+Y.DIE
+Y.DIE
+Y.DIE
+Y.DIE
+Y.DIE
